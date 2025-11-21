@@ -1,8 +1,12 @@
+İşte Laravel eklenmiş hali:
+
+```markdown
 # Merhaba, Ben Kuasar! 👋
 
 Backend ve frontend teknolojileri üzerine çalışan, ölçeklenebilir sistemler geliştirmeyi seven tutkulu bir yazılım geliştiriciyim. Temiz kod yazmayı ve toplulukla bilgi paylaşmayı seviyorum.
 
 - 💎 **Ruby on Rails** uzmanı
+- 🔴 **Laravel** geliştirici
 - 💻 **Full-stack Web Developer**
 - ☁️ **Cloud & DevOps** meraklısı
 - 🤝 **Açık Kaynak** katkıcısı
@@ -16,6 +20,8 @@ Backend ve frontend teknolojileri üzerine çalışan, ölçeklenebilir sistemle
 
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat&logo=ruby&logoColor=white)
 ![Rails](https://img.shields.io/badge/Rails-CC0000?style=flat&logo=ruby-on-rails&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
@@ -24,6 +30,7 @@ Backend ve frontend teknolojileri üzerine çalışan, ölçeklenebilir sistemle
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
@@ -36,6 +43,7 @@ Backend ve frontend teknolojileri üzerine çalışan, ölçeklenebilir sistemle
 Şunları kullanarak güçlü ve ölçeklenebilir sistemler oluşturuyorum:
 
 - Ruby on Rails
+- Laravel & PHP
 - Node.js & Express
 - RESTful API'lar
 - Mikroservis Mimarisi
@@ -52,6 +60,7 @@ Deneyimli olduğum alanlar:
 - Responsive Web Design
 - Modern JavaScript/TypeScript
 - Server-Side Rendering
+- Laravel Blade & Livewire
 
 ---
 
