@@ -80,4 +80,4 @@ Deneyimli olduğum alanlar:
 
 ## 📬 Benimle İletişime Geçin
 
-- 💬 [Discord]https://discord.com/users/kuasarkod
+- 💬 discord: kuasarkod
