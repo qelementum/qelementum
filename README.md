@@ -8,7 +8,7 @@ Backend ve frontend teknolojileri üzerine çalışan, ölçeklenebilir sistemle
 - ☁️ **Cloud & DevOps** meraklısı
 - 🤝 **Açık Kaynak** katkıcısı
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)]()
+
 ![Discord](https://img.shields.io/badge/kuasarkod-5865F2?style=flat&logo=discord&logoColor=white)
 
 ---
